@@ -21,7 +21,7 @@ public class Main {
 			System.out.println("Nome carro: " + carro);
 		}
 
-		System.out.println("=====================");
+		System.out.println("====================");
 
 		carros[1] = "L200";
 
